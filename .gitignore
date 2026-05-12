@@ -1,40 +1,16 @@
-# ── Bytecode Python ──────────────────────────────────────
 __pycache__/
-*.py[cod]
-*$py.class
 *.pyc
 *.pyo
+*.pyd
 
-# ── Environnements virtuels ───────────────────────────────
-.venv/
-venv/
-env/
-ENV/
 .env
+venv/
+.venv/
 
-# ── Distribution / packaging ──────────────────────────────
-build/
-dist/
-*.egg-info/
-*.egg
-MANIFEST
-
-# ── Tests & couverture ────────────────────────────────────
-.pytest_cache/
-.coverage
-htmlcov/
-.tox/
-
-# ── IDEs ──────────────────────────────────────────────────
-.idea/
 .vscode/
-*.sublime-project
-*.sublime-workspace
+.idea/
 
-# ── Système ───────────────────────────────────────────────
+*.log
+
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# ── Logs ──────────────────────────────────────────────────
-*.log
