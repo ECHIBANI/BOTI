@@ -188,4 +188,15 @@ Ce projet est sous licence **MIT** — voir le fichier [LICENSE](LICENSE) pour p
 
 ## 👤 Auteur
 
-Projet réalisé comme exercice d'implémentation d'un interpréteur de langage minimaliste en Python.
+<p align="center">
+  <img src="assets/logo.png" alt="BOTI Logo" width="180"/>
+</p>
+
+Projet réalisé par :
+
+**Amine ECHIBANI**
+
+Étudiant passionné par le développement Python, la cybersécurité et la création d'outils pédagogiques.
+
+- 🐙 GitHub : [ECHIBANI](https://github.com/ECHIBANI)
+- 🚀 Projet : [BOTI](https://github.com/ECHIBANI/BOTI)
