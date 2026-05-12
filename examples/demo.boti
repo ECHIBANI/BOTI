@@ -1,0 +1,41 @@
+## Démonstration complète du langage BOTI v1.1 ##
+
+"=== Bienvenue dans BOTI ==="
+
+## ── Opérations de base ────────────── ##
+
+## Addition ##
+somme += 10
+somme += 5
+"Somme (10 + 5) = {somme}"
+
+## Soustraction ##
+resultat += 20
+resultat -= 7
+"Résultat (20 - 7) = {resultat}"
+
+## Multiplication ##
+produit += 6
+produit *= 7
+"Produit (6 × 7) = {produit}"
+
+## Division ##
+quotient += 100
+quotient /= 4
+"Quotient (100 ÷ 4) = {quotient}"
+
+## ── Opérations enchaînées ─────────── ##
+
+compteur += 1
+compteur += 1
+compteur += 1
+compteur *= 10
+"Compteur (3 incréments puis ×10) = {compteur}"
+
+## ── Interpolation multiple ────────── ##
+
+a += 3
+b += 7
+"a = {a}  |  b = {b}"
+
+"=== Programme terminé ==="
